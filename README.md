@@ -5,4 +5,4 @@ A repository for all the knowledge I achieved by reading "The C Programming Lang
 
 ## License
 
-This repository is licensed under [MIT](.LICENSE). See [opensource.org](https://opensource.org/licenses/MIT) for more information.
+This repository is licensed under [CC-BY-SA-4.0](.LICENSE). See [creativecommons.org](https://creativecommons.org/licenses/by-sa/4.0/) for more information.
